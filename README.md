@@ -1,4 +1,4 @@
-# Southeast Auto Paint & Equipment — Homepage (full build)
+# Southeast Auto Paint & Equipment homepage (full build)
 
 The full static build of the Southeast Auto Paint & Equipment homepage,
 including image assets. Southeast Auto Paint & Equipment is an automotive
